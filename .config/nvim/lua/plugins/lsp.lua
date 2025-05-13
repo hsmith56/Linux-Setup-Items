@@ -198,7 +198,7 @@ return {
       ruff = {},
       pylsp = {},
       ast_grep = {},
-      vulture = {},
+      -- vulture = {},
       -- sourcery = {},
       --
 
