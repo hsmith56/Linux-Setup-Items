@@ -197,10 +197,8 @@ return {
       bashls = {},
       ruff = {},
       pylsp = {},
-      ast_grep = {},
-      -- vulture = {},
-      -- sourcery = {},
-      --
+      rust_analyzer = {},
+      -- ast_grep = {},
 
       -- clangd = {},
       -- gopls = {},
